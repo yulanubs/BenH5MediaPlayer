@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="demoNames">
+        <item>Demo-UI</item>
+        <item>Demo-UVideoView</item>
+    </string-array>
+    <string-array name="demoDirects">
+        <item>ucloud.intent.action.uvod.example.easyplayer</item>
+        <item>ucloud.intent.action.uvod.example.uvideoview</item>
+    </string-array>
+</resources>
